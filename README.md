@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soe Min Min Latt</h1>
-<h3 align="center">I am a third year Computer Science student from Assumption University of Thailand.</h3>
+<h3 align="center">I am a third-year Computer Science student at Assumption University of Thailand, highly focused on Full Stack Web Development.</h3>
 
 
 <p align="left">
