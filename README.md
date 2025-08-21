@@ -12,4 +12,4 @@
 
 
 
-![Snake animation](https://Tawan0224/Tawan0224/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Tawan0224/Tawan0224/output/github-contribution-grid-snake.svg)
